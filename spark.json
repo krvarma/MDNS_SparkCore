@@ -1,0 +1,7 @@
+{
+	"name": "MDNS",
+	"author": "Krishnaraj Varma",
+	"version": "1.0.0",
+	"license": "MIT license",
+	"description": "Adafruit CC3000_MDNS Library for Spark Core"
+} 
